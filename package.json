@@ -4,5 +4,8 @@
   "description": "demonstration of uploading data to dynamodb from the cli and sdk",
   "main": "index.js",
   "author": "Stephen Merth <stephen.merth@gmail.com> (https://smerth.github.io/)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.759.0"
+  }
 }
