@@ -1,0 +1,782 @@
+[
+  {
+    "english": "Able",
+    "chinese": "能, 能够",
+    "pinyin": "Néng, Nénggòu"
+  },
+  {
+    "english": "Accept",
+    "chinese": "接受",
+    "pinyin": "Jiēshòu"
+  },
+  {
+    "english": "Add",
+    "chinese": "加，补充",
+    "pinyin": "Jiā, Bǔchōng"
+  },
+  {
+    "english": "Admit",
+    "chinese": "承认",
+    "pinyin": "Chéngrèn"
+  },
+  {
+    "english": "Agree",
+    "chinese": "同意，赞成，答应",
+    "pinyin": "Tóngyì, Zànchéng, Dāyìng"
+  },
+  {
+    "english": "Allow",
+    "chinese": "允许，让",
+    "pinyin": "Yǔnxǔ, Ràng"
+  },
+  {
+    "english": "Apologize",
+    "chinese": "道歉",
+    "pinyin": "Dàoqiàn"
+  },
+  {
+    "english": "Appear",
+    "chinese": "出现，显得",
+    "pinyin": "Chūxiàn, Xiǎndé"
+  },
+  {
+    "english": "Apply",
+    "chinese": "申请",
+    "pinyin": "Shēnqǐng"
+  },
+  {
+    "english": "Arrive",
+    "chinese": "到",
+    "pinyin": "Dào"
+  },
+  {
+    "english": "Ask",
+    "chinese": "问",
+    "pinyin": "Wèn"
+  },
+  {
+    "english": "Attend",
+    "chinese": "出席，参加",
+    "pinyin": "Cānjiā, Chūxí"
+  },
+  {
+    "english": "Beat",
+    "chinese": "打，揍，打败",
+    "pinyin": "Dǎ, Zòu, Dǎbài"
+  },
+  {
+    "english": "Begin",
+    "chinese": "开始",
+    "pinyin": "Kāishǐ"
+  },
+  {
+    "english": "Believe",
+    "chinese": "相信",
+    "pinyin": "Xiāngxìn"
+  },
+  {
+    "english": "Blog",
+    "chinese": "博客",
+    "pinyin": "Bókè"
+  },
+  {
+    "english": "Born",
+    "chinese": "出生",
+    "pinyin": "Chūshēng"
+  },
+  {
+    "english": "Bring",
+    "chinese": "带",
+    "pinyin": "Dài"
+  },
+  {
+    "english": "Buy",
+    "chinese": "买",
+    "pinyin": "Mǎi"
+  },
+  {
+    "english": "Call",
+    "chinese": "打电话，叫",
+    "pinyin": "Dǎ diànhuà, Jiào"
+  },
+  {
+    "english": "Can",
+    "chinese": "可以，能，会，行",
+    "pinyin": "Kěyǐ, Néng, Huì, Xíng"
+  },
+  {
+    "english": "Cause",
+    "chinese": "使，令，引起，导致",
+    "pinyin": "Shǐ, Lìng, Yǐnqǐ, Dǎozhì"
+  },
+  {
+    "english": "Change",
+    "chinese": "换，改，变",
+    "pinyin": "Huàn, Gǎibiàn, Biàn"
+  },
+  {
+    "english": "Charge",
+    "chinese": "充",
+    "pinyin": "Chōng"
+  },
+  {
+    "english": "Check",
+    "chinese": "检查，查明，查",
+    "pinyin": "Jiǎnchá, Chá míng, Chá"
+  },
+  {
+    "english": "Clean",
+    "chinese": "打扫，清理",
+    "pinyin": "Dǎsǎo, Qīnglǐ"
+  },
+  {
+    "english": "Come",
+    "chinese": "来",
+    "pinyin": "Lái"
+  },
+  {
+    "english": "Consider",
+    "chinese": "考虑 ，想想",
+    "pinyin": "Kǎolǜ, Xiǎng xiǎng"
+  },
+  {
+    "english": "Continue",
+    "chinese": "继续",
+    "pinyin": "Jìxù"
+  },
+  {
+    "english": "Cook",
+    "chinese": "煮，做饭",
+    "pinyin": "Zhǔ, Zuò fàn"
+  },
+  {
+    "english": "Cry",
+    "chinese": "哭，叫喊",
+    "pinyin": "Kū, Jiàohǎn"
+  },
+  {
+    "english": "Cut",
+    "chinese": "切，剪",
+    "pinyin": "Qiè, Jiǎn"
+  },
+  {
+    "english": "Decide",
+    "chinese": "决定",
+    "pinyin": "Juédìng"
+  },
+  {
+    "english": "Delete",
+    "chinese": "删除",
+    "pinyin": "Shānchú"
+  },
+  {
+    "english": "Disappear",
+    "chinese": "消失，不见了",
+    "pinyin": "Xiāoshī, Bùjiànle"
+  },
+  {
+    "english": "Discover",
+    "chinese": "发现，发觉",
+    "pinyin": "Fāxiàn, Fājué"
+  },
+  {
+    "english": "Dislike",
+    "chinese": "不喜欢",
+    "pinyin": "Bù xǐhuān"
+  },
+  {
+    "english": "Do",
+    "chinese": "做",
+    "pinyin": "Zuò"
+  },
+  {
+    "english": "Download",
+    "chinese": "下载",
+    "pinyin": "Xiàzài"
+  },
+  {
+    "english": "Dream",
+    "chinese": "梦见",
+    "pinyin": "Mèng jiàn"
+  },
+  {
+    "english": "Drink",
+    "chinese": "喝",
+    "pinyin": "Hē"
+  },
+  {
+    "english": "Drive",
+    "chinese": "开车，驾驶",
+    "pinyin": "Kāichē, Jiàshǐ"
+  },
+  {
+    "english": "Eat",
+    "chinese": "吃",
+    "pinyin": "Chī"
+  },
+  {
+    "english": "Explain",
+    "chinese": "解释",
+    "pinyin": "Jiěshì"
+  },
+  {
+    "english": "Express",
+    "chinese": "表达，表示",
+    "pinyin": "Biǎodá, Biǎoshì"
+  },
+  {
+    "english": "Feel",
+    "chinese": "觉得，感觉，认为",
+    "pinyin": "Juédé, Gǎnjué, Rènwéi"
+  },
+  {
+    "english": "Find",
+    "chinese": "找",
+    "pinyin": "Zhǎo"
+  },
+  {
+    "english": "Flee",
+    "chinese": "逃跑",
+    "pinyin": "Táopǎo"
+  },
+  {
+    "english": "Fly",
+    "chinese": "飞",
+    "pinyin": "Fēi"
+  },
+  {
+    "english": "Get",
+    "chinese": "得到",
+    "pinyin": "Dédào"
+  },
+  {
+    "english": "Give",
+    "chinese": "给，送",
+    "pinyin": "Gěi, Sòng"
+  },
+  {
+    "english": "Go",
+    "chinese": "去",
+    "pinyin": "Qù"
+  },
+  {
+    "english": "Greet",
+    "chinese": "打招呼，迎接",
+    "pinyin": "Dǎzhāohū, Yíngjiē"
+  },
+  {
+    "english": "Guarantee",
+    "chinese": "保证",
+    "pinyin": "Bǎozhèng"
+  },
+  {
+    "english": "Guess",
+    "chinese": "猜测，猜",
+    "pinyin": "Cāicè, Cāi"
+  },
+  {
+    "english": "Hate",
+    "chinese": "讨厌，恨",
+    "pinyin": "Tǎoyàn, Hèn"
+  },
+  {
+    "english": "Have",
+    "chinese": "有",
+    "pinyin": "Yǒu"
+  },
+  {
+    "english": "Hear",
+    "chinese": "听",
+    "pinyin": "Tīng"
+  },
+  {
+    "english": "Help",
+    "chinese": "帮",
+    "pinyin": "Bāng"
+  },
+  {
+    "english": "Hope",
+    "chinese": "希望",
+    "pinyin": "Xīwàng"
+  },
+  {
+    "english": "Hug",
+    "chinese": "拥抱，抱着",
+    "pinyin": "Yǒngbào, Bàozhe"
+  },
+  {
+    "english": "Inform",
+    "chinese": "通知，告诉",
+    "pinyin": "Tōngzhī, Gàosù"
+  },
+  {
+    "english": "Invite",
+    "chinese": "邀请，请",
+    "pinyin": "Yāoqǐng, Qǐng"
+  },
+  {
+    "english": "Keep",
+    "chinese": "收，保留",
+    "pinyin": "Shōu, Bǎoliú"
+  },
+  {
+    "english": "Kiss",
+    "chinese": "吻",
+    "pinyin": "Wěn"
+  },
+  {
+    "english": "Know",
+    "chinese": "知道，认识",
+    "pinyin": "Zhīdào, Rènshì"
+  },
+  {
+    "english": "Learn",
+    "chinese": "学习",
+    "pinyin": "Xuéxí"
+  },
+  {
+    "english": "Leave",
+    "chinese": "离开，留下",
+    "pinyin": "Líkāi, Liú xià"
+  },
+  {
+    "english": "Let",
+    "chinese": "让",
+    "pinyin": "Ràng"
+  },
+  {
+    "english": "Like",
+    "chinese": "喜欢 ，像",
+    "pinyin": "Xǐhuān, Xiàng"
+  },
+  {
+    "english": "Live",
+    "chinese": "住，生活，过",
+    "pinyin": "Zhù, Shēnghuó, Guò"
+  },
+  {
+    "english": "Listen",
+    "chinese": "听",
+    "pinyin": "Tīng"
+  },
+  {
+    "english": "Look",
+    "chinese": "看",
+    "pinyin": "Kàn"
+  },
+  {
+    "english": "Lose",
+    "chinese": "输，失去，丢失，迷路",
+    "pinyin": "Shū, Shīqù, Diūshī, Mílù"
+  },
+  {
+    "english": "Love",
+    "chinese": "爱，喜欢",
+    "pinyin": "Ài, Xǐhuān"
+  },
+  {
+    "english": "Make",
+    "chinese": "制造，做",
+    "pinyin": "Zhìzào, Zuò"
+  },
+  {
+    "english": "Miss",
+    "chinese": "想念，错过",
+    "pinyin": "Xiǎngniàn, Cuòguò"
+  },
+  {
+    "english": "Misunderstand",
+    "chinese": "误会，误解",
+    "pinyin": "Wùhuì, Wùjiě"
+  },
+  {
+    "english": "Need",
+    "chinese": "需要，必须",
+    "pinyin": "Xūyào, Bìxū"
+  },
+  {
+    "english": "Notice",
+    "chinese": "注意",
+    "pinyin": "Zhùyì"
+  },
+  {
+    "english": "Notify",
+    "chinese": "通知，告诉",
+    "pinyin": "Tōngzhī, Gàosù"
+  },
+  {
+    "english": "Observe",
+    "chinese": "观察",
+    "pinyin": "Guānchá"
+  },
+  {
+    "english": "Order",
+    "chinese": "订购，订，命令",
+    "pinyin": "Dìnggòu, Dìng, Mìnglìng"
+  },
+  {
+    "english": "Participate",
+    "chinese": "参加，参与",
+    "pinyin": "Cānjiā, Cānyù"
+  },
+  {
+    "english": "Pay",
+    "chinese": "付，还",
+    "pinyin": "Fù, Huán"
+  },
+  {
+    "english": "Perform",
+    "chinese": "表演",
+    "pinyin": "Biǎoyǎn"
+  },
+  {
+    "english": "Persist",
+    "chinese": "坚持，持续",
+    "pinyin": "Jiānchí, Chíxù"
+  },
+  {
+    "english": "Play",
+    "chinese": "玩，播放",
+    "pinyin": "Wán, Bòfàng"
+  },
+  {
+    "english": "Possess",
+    "chinese": "拥有",
+    "pinyin": "Yǒngyǒu"
+  },
+  {
+    "english": "Pour",
+    "chinese": "倒",
+    "pinyin": "Dào"
+  },
+  {
+    "english": "Prepare",
+    "chinese": "准备",
+    "pinyin": "Zhǔnbèi"
+  },
+  {
+    "english": "Prevent",
+    "chinese": "阻止",
+    "pinyin": "Zǔzhǐ"
+  },
+  {
+    "english": "Promise",
+    "chinese": "答应，承诺",
+    "pinyin": "Dāyìng, Chéngnuò"
+  },
+  {
+    "english": "Pronounce",
+    "chinese": "发音",
+    "pinyin": "Fāyīn"
+  },
+  {
+    "english": "Protect",
+    "chinese": "保护",
+    "pinyin": "Bǎohù"
+  },
+  {
+    "english": "Provide",
+    "chinese": "提供，给",
+    "pinyin": "Tígōng, Gěi"
+  },
+  {
+    "english": "Put",
+    "chinese": "放",
+    "pinyin": "Fàng"
+  },
+  {
+    "english": "Punish",
+    "chinese": "惩罚",
+    "pinyin": "Chéngfá"
+  },
+  {
+    "english": "Question",
+    "chinese": "问，怀疑",
+    "pinyin": "Wèn, Huáiyí"
+  },
+  {
+    "english": "Reach",
+    "chinese": "到，到达，达到",
+    "pinyin": "Dào, Dàodá, Dádào"
+  },
+  {
+    "english": "Read",
+    "chinese": "读， 阅读，看",
+    "pinyin": "Dú, Yuèdú, kàn"
+  },
+  {
+    "english": "Receive",
+    "chinese": "收到，接到",
+    "pinyin": "Shōu dào, Jiē dào"
+  },
+  {
+    "english": "Record",
+    "chinese": "记录",
+    "pinyin": "Jìlù"
+  },
+  {
+    "english": "Reflect",
+    "chinese": "思考，深思",
+    "pinyin": "Sīkǎo, Shēnsī"
+  },
+  {
+    "english": "Register",
+    "chinese": "登记",
+    "pinyin": "Dēngjì"
+  },
+  {
+    "english": "Reject",
+    "chinese": "拒绝",
+    "pinyin": "Jùjué"
+  },
+  {
+    "english": "Repeat",
+    "chinese": "重复",
+    "pinyin": "Chóngfù"
+  },
+  {
+    "english": "Replace",
+    "chinese": "更换，代替，替代",
+    "pinyin": "Gēnghuàn, Dàitì, Tìdài"
+  },
+  {
+    "english": "Request",
+    "chinese": "要求，拜托",
+    "pinyin": "Yāoqiú, Bàituō"
+  },
+  {
+    "english": "Return",
+    "chinese": "回，退换",
+    "pinyin": "Huí, Tuìhuàn"
+  },
+  {
+    "english": "Resign",
+    "chinese": "辞职",
+    "pinyin": "Cízhí"
+  },
+  {
+    "english": "Run",
+    "chinese": "跑",
+    "pinyin": "Pǎo"
+  },
+  {
+    "english": "Save",
+    "chinese": "省，救，保存",
+    "pinyin": "Shěng, jiù, Bǎocún"
+  },
+  {
+    "english": "Say",
+    "chinese": "说",
+    "pinyin": "Shuō"
+  },
+  {
+    "english": "Scold",
+    "chinese": "骂",
+    "pinyin": "Mà"
+  },
+  {
+    "english": "Search",
+    "chinese": "寻找，搜寻",
+    "pinyin": "Xúnzhǎo, Sōuxún"
+  },
+  {
+    "english": "See",
+    "chinese": "看见",
+    "pinyin": "Kànjiàn"
+  },
+  {
+    "english": "Seem",
+    "chinese": "似乎，好像，显得",
+    "pinyin": "Sìhū, Hǎoxiàng, Xiǎndé"
+  },
+  {
+    "english": "Sell",
+    "chinese": "卖，出售",
+    "pinyin": "Mài, Chūshòu"
+  },
+  {
+    "english": "Send",
+    "chinese": "发送 ，发，寄",
+    "pinyin": "Fāsòng, Fā, Jì"
+  },
+  {
+    "english": "Shout",
+    "chinese": "喊",
+    "pinyin": "Hǎn"
+  },
+  {
+    "english": "Sit",
+    "chinese": "坐",
+    "pinyin": "Zuò"
+  },
+  {
+    "english": "Sleep",
+    "chinese": "睡",
+    "pinyin": "Shuì"
+  },
+  {
+    "english": "Stand",
+    "chinese": "站",
+    "pinyin": "Zhàn"
+  },
+  {
+    "english": "Stay",
+    "chinese": "留，住",
+    "pinyin": "Liú, Zhù"
+  },
+  {
+    "english": "Stop",
+    "chinese": "停",
+    "pinyin": "Tíng"
+  },
+  {
+    "english": "Stroll",
+    "chinese": "漫步",
+    "pinyin": "Mànbù"
+  },
+  {
+    "english": "Study",
+    "chinese": "读书，研究",
+    "pinyin": "Dúshū, Yánjiū"
+  },
+  {
+    "english": "Speak",
+    "chinese": "讲",
+    "pinyin": "Jiǎng"
+  },
+  {
+    "english": "Spell",
+    "chinese": "拼写，拼读",
+    "pinyin": "Pīnxiě, Pīn dú"
+  },
+  {
+    "english": "Surf",
+    "chinese": "上网",
+    "pinyin": "Shàngwǎng"
+  },
+  {
+    "english": "Suspect",
+    "chinese": "怀疑",
+    "pinyin": "Huáiyí"
+  },
+  {
+    "english": "Swim",
+    "chinese": "游泳，游",
+    "pinyin": "Yóuyǒng, Yóu"
+  },
+  {
+    "english": "Take",
+    "chinese": "拿，携带，搭",
+    "pinyin": "Ná, Xiédài, Dā"
+  },
+  {
+    "english": "Teach",
+    "chinese": "教，教导",
+    "pinyin": "Jiāo, Jiàodǎo"
+  },
+  {
+    "english": "Tell",
+    "chinese": "告诉，讲，说",
+    "pinyin": "Gàosù, Jiǎng, Shuō"
+  },
+  {
+    "english": "Think",
+    "chinese": "想",
+    "pinyin": "Xiǎng"
+  },
+  {
+    "english": "Travel",
+    "chinese": "旅行",
+    "pinyin": "Lǚxíng"
+  },
+  {
+    "english": "Try",
+    "chinese": "尝试，试",
+    "pinyin": "Chángshì, Shì"
+  },
+  {
+    "english": "Trust",
+    "chinese": "相信",
+    "pinyin": "Xiāngxìn"
+  },
+  {
+    "english": "Type",
+    "chinese": "打字",
+    "pinyin": "Dǎzì"
+  },
+  {
+    "english": "Understand",
+    "chinese": "理解，了解，明白，清楚，懂",
+    "pinyin": "Lǐjiě, Liǎojiě, Míngbái, Qīngchǔ, Dǒng"
+  },
+  {
+    "english": "Upload",
+    "chinese": "上载",
+    "pinyin": "Shàngzài"
+  },
+  {
+    "english": "Verify",
+    "chinese": "确认，证实",
+    "pinyin": "Quèrèn, Zhèngshí"
+  },
+  {
+    "english": "Visit",
+    "chinese": "参观，拜访，访问",
+    "pinyin": "Cānguān, Bàifǎng, Fǎngwèn"
+  },
+  {
+    "english": "Walk",
+    "chinese": "走，走路，步行",
+    "pinyin": "Zǒu"
+  },
+  {
+    "english": "Want",
+    "chinese": "要",
+    "pinyin": "Yào"
+  },
+  {
+    "english": "Warn",
+    "chinese": "警告",
+    "pinyin": "Jǐnggào"
+  },
+  {
+    "english": "Wash",
+    "chinese": "洗",
+    "pinyin": "Xǐ"
+  },
+  {
+    "english": "Waste",
+    "chinese": "浪费",
+    "pinyin": "Làngfèi"
+  },
+  {
+    "english": "Watch",
+    "chinese": "看，留意",
+    "pinyin": "Kàn, Liúyì"
+  },
+  {
+    "english": "Wear",
+    "chinese": "穿，戴",
+    "pinyin": "Chuān, Dài"
+  },
+  {
+    "english": "Win",
+    "chinese": "赢，获胜",
+    "pinyin": "Yíng, Huòshèng"
+  },
+  {
+    "english": "Wish",
+    "chinese": "想要，希望，祝",
+    "pinyin": "Xiǎng yào, Xīwàng, Zhù"
+  },
+  {
+    "english": "Work",
+    "chinese": "工作",
+    "pinyin": "Gōngzuò"
+  },
+  {
+    "english": "Write",
+    "chinese": "写",
+    "pinyin": "Xiě"
+  }
+]

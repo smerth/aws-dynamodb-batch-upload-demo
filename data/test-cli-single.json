@@ -1,0 +1,18 @@
+{
+  "PutRequest": {
+    "Item": {
+      "id": {
+        "S": "2"
+      },
+      "english": {
+        "S": "Accept"
+      },
+      "chinese": {
+        "S": "接受"
+      },
+      "pinyin": {
+        "S": "Jiēshòu"
+      }
+    }
+  }
+},

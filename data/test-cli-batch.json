@@ -1,0 +1,40 @@
+{
+    "HanyuVerb-wheen322rvedlhsckmscknosji-dev": [
+      {
+        "PutRequest": {
+          "Item": {
+            "id": {
+              "S": "2"
+            },
+            "english": {
+              "S": "Accept"
+            },
+            "chinese": {
+              "S": "接受"
+            },
+            "pinyin": {
+              "S": "Jiēshòu"
+            }
+          }
+        }
+      },
+      {
+        "PutRequest": {
+          "Item": {
+            "id": {
+              "S": "3"
+            },
+            "english": {
+              "S": "Add"
+            },
+            "chinese": {
+              "S": "加，补充"
+            },
+            "pinyin": {
+              "S": "Jiā, Bǔchōng"
+            }
+          }
+        }
+      }
+    ]
+  }
