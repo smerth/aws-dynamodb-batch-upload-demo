@@ -37,3 +37,8 @@ So it is necessary to loop through the items in the data and process them in bat
 For that we need a script. To get access to the `dynamodb` api inside the script we can use the AWS SDK, we're not on the command line anymore!
 
 ## AWS SDK inside a nodejs script
+
+### setup
+
+creadentials from shared
+region from dotenv

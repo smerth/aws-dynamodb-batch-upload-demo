@@ -6,9 +6,11 @@
   "author": "Stephen Merth <stephen.merth@gmail.com> (https://smerth.github.io/)",
   "license": "MIT",
   "scripts": {
-    "upload": "node src/upload-to-dynamo.db"
+    "upload": "node ./src/upload-to-dynamodb.js"
   },
   "dependencies": {
-    "aws-sdk": "^2.759.0"
+    "aws-sdk": "^2.759.0",
+    "dotenv": "^8.2.0",
+    "uuid": "^8.3.0"
   }
 }

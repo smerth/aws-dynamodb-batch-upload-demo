@@ -1,0 +1,24 @@
+{
+  "RequestItems": {
+    "HanyuVerb-wheen322rvedlhsckmscknosji-dev": [
+      {
+        "PutRequest": {
+          "Item": {
+            "id": {
+              "S": "4137ec18-9796-48b8-ad61-a1b8b53a02a7"
+            },
+            "english": {
+              "S": "Able"
+            },
+            "chinese": {
+              "S": "能, 能够"
+            },
+            "pinyin": {
+              "S": "Néng, Nénggòu"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

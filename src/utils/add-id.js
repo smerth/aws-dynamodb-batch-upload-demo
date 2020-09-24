@@ -1,16 +1,27 @@
-const arr = require("./data-start.json");
+const { v4: uuidv4 } = require("uuid");
 const fs = require("fs");
+const arr = require("../../data/original/all-verbs.json");
 
-let i = 0,
-  ln = arr.length;
-for (i; i < ln; i++) {
-  arr[i].id = i + 1;
+function addUniqueId(size) {
+  let i = 0;
+  let ln = arr.length;
+  for (i; i < ln; i++) {
+    let id = uuidv4();
+    arr[i].id = id;
+  }
+
+  // luckily if size isn't provided, everything is spliced!
+  const newArray = arr.slice(0, size);
+
+  let output = JSON.stringify(newArray);
+
+  fs.writeFile(`./data/with-id/${size || "all"}-verb.json`, output, function (
+    err
+  ) {
+    if (err) return console.log(err);
+  });
 }
 
-let json = JSON.stringify(arr);
-
-fs.writeFile("data-with-id.json", json, function (err) {
-  if (err) return console.log(err);
-});
-
-console.log(json);
+addUniqueId(1);
+addUniqueId(10);
+addUniqueId();

@@ -1,0 +1,62 @@
+[
+  {
+    "english": "Able",
+    "chinese": "能, 能够",
+    "pinyin": "Néng, Nénggòu",
+    "id": "b6af970e-7f53-43cc-a278-291c93800865"
+  },
+  {
+    "english": "Accept",
+    "chinese": "接受",
+    "pinyin": "Jiēshòu",
+    "id": "59dce0bb-02b6-41ff-a168-32066d30f352"
+  },
+  {
+    "english": "Add",
+    "chinese": "加，补充",
+    "pinyin": "Jiā, Bǔchōng",
+    "id": "a6332236-4fca-4986-801e-3f3663bcee9c"
+  },
+  {
+    "english": "Admit",
+    "chinese": "承认",
+    "pinyin": "Chéngrèn",
+    "id": "77fc483e-5397-4dc3-bb77-767813d2a866"
+  },
+  {
+    "english": "Agree",
+    "chinese": "同意，赞成，答应",
+    "pinyin": "Tóngyì, Zànchéng, Dāyìng",
+    "id": "2d6d47a0-6e65-45d7-836d-9ec0732001dc"
+  },
+  {
+    "english": "Allow",
+    "chinese": "允许，让",
+    "pinyin": "Yǔnxǔ, Ràng",
+    "id": "4e6000b0-13b7-4247-b5dc-b2eda98f1e95"
+  },
+  {
+    "english": "Apologize",
+    "chinese": "道歉",
+    "pinyin": "Dàoqiàn",
+    "id": "1a3b5264-a8ac-4b58-91ad-6665f9b222d1"
+  },
+  {
+    "english": "Appear",
+    "chinese": "出现，显得",
+    "pinyin": "Chūxiàn, Xiǎndé",
+    "id": "2e01eac9-1018-4408-a4d6-f4a72095d9fe"
+  },
+  {
+    "english": "Apply",
+    "chinese": "申请",
+    "pinyin": "Shēnqǐng",
+    "id": "a9d2a4c2-6314-431c-bbc3-105c2c004d25"
+  },
+  {
+    "english": "Arrive",
+    "chinese": "到",
+    "pinyin": "Dào",
+    "id": "7728e1d3-a8dc-45f0-873c-40a4932207a7"
+  }
+]
