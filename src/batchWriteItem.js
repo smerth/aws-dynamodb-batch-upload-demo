@@ -1,22 +1,6 @@
-// Copyright (c) 2020 smerth
-//
-// This software is released under the MIT License.
-// https://opensource.org/licenses/MIT
-
 var AWS = require("aws-sdk");
 
-const params = require("../data/formatted-for-sdk/all-verbs.json");
-// const dotenv = require("dotenv");
-// dotenv.config();
-
-// AWS.config.getCredentials(function (err) {
-//   if (err) console.log(err.stack);
-//   // credentials not loaded
-//   else {
-//     console.log("Access key:", AWS.config.credentials.accessKey);
-//     console.log("Region: ", AWS.config.region);
-//   }
-// });
+const data = require("../data/formatted-for-cli/all-verbs.json");
 
 // Set the region
 AWS.config.update({ region: "us-east-1" });
@@ -63,3 +47,5 @@ var write = function (batch, callback) {
     callback(null);
   }
 };
+
+write(data);

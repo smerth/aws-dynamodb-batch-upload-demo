@@ -5,7 +5,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "282c7519-6363-45fc-9b16-4ce03eed429e"
+              "S": "d10cb5ea-6e4f-4452-b89f-ca00674a92e9"
             },
             "english": {
               "S": "Able"
@@ -23,7 +23,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "bb9814a5-6769-4bc7-b74d-a8a594a11e7b"
+              "S": "5e5e3e17-ef54-4cb1-b10c-36d7ad67e5eb"
             },
             "english": {
               "S": "Accept"
@@ -41,7 +41,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "eac522a6-b01f-4384-8d6d-bd56d2b7f8d1"
+              "S": "c9d55861-77a6-4990-8db1-7a58c33ebf45"
             },
             "english": {
               "S": "Add"
@@ -59,7 +59,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "d53e5408-05ea-46b6-902d-16c0d0d957f5"
+              "S": "43d19232-3929-48a0-b707-d50df21973b8"
             },
             "english": {
               "S": "Admit"
@@ -77,7 +77,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "7136bb9f-7a79-48b3-a3bb-f69ee1aa94cf"
+              "S": "1fcca3a5-64ad-4156-8441-f9f246df154d"
             },
             "english": {
               "S": "Agree"
@@ -95,7 +95,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "0abea25a-58a6-4c0a-a39b-a12b4a41528f"
+              "S": "f54ecf57-4b11-41e7-8df9-c8875688792e"
             },
             "english": {
               "S": "Allow"
@@ -113,7 +113,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "d31d55d7-c184-4d29-8121-d97e26707c07"
+              "S": "26510769-98fc-4c81-afdd-e8187ee934bc"
             },
             "english": {
               "S": "Apologize"
@@ -131,7 +131,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "6edd30ec-f0e9-48aa-b423-295a112a45db"
+              "S": "53846b24-e2b6-4a30-abdd-4c55a05294ab"
             },
             "english": {
               "S": "Appear"
@@ -149,7 +149,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "11098a85-99ed-4d69-b32a-ee07769a6cd9"
+              "S": "8d4cc13d-bfc0-437c-a950-f8d59771700b"
             },
             "english": {
               "S": "Apply"
@@ -167,7 +167,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "371c69d1-85ea-463f-92e1-79c368177e20"
+              "S": "766d3ec8-a290-4a50-83cb-ca8f6ec308f1"
             },
             "english": {
               "S": "Arrive"
@@ -185,7 +185,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "fbebc8a9-a889-4565-9b51-0582783951c0"
+              "S": "97359b32-290e-4dfb-bcb5-d83dbd4b0aff"
             },
             "english": {
               "S": "Ask"
@@ -203,7 +203,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "2bf64304-6c62-4774-8aca-8511316b40f2"
+              "S": "513ccd4d-7ddb-443b-89bf-67f6740da57b"
             },
             "english": {
               "S": "Attend"
@@ -221,7 +221,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "0fc60a39-9e6f-492d-b42c-664fa6338e8c"
+              "S": "33c82524-e4bc-4801-adee-9f3b83fd90c8"
             },
             "english": {
               "S": "Beat"
@@ -239,7 +239,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "9a1e1a19-b5ef-4745-8f9c-db27c0bfa78e"
+              "S": "75635e2e-4d57-43d7-a0ec-e3712eede190"
             },
             "english": {
               "S": "Begin"
@@ -257,7 +257,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "da779581-a9bc-4928-b1a3-19bd4e889c76"
+              "S": "e9b15d1e-ce71-484c-a311-ca794a2c4232"
             },
             "english": {
               "S": "Believe"
@@ -275,7 +275,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "f251c6a3-0a03-4258-90c5-d89a366556fa"
+              "S": "6965a7cb-073d-4fff-9c58-8c904aea9a7e"
             },
             "english": {
               "S": "Blog"
@@ -293,7 +293,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "09aa74f9-2114-472a-a401-04c6dd1d323e"
+              "S": "eef0905f-bf29-458c-b4f3-e87f77742f6a"
             },
             "english": {
               "S": "Born"
@@ -311,7 +311,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "2c55465c-71f5-47c3-a7cc-740a90b1a97c"
+              "S": "96fdf8d0-14a4-4fac-b707-8a6c2ac05475"
             },
             "english": {
               "S": "Bring"
@@ -329,7 +329,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "79bcaff6-feae-4bdc-abe5-113b515f6136"
+              "S": "2e64ac62-3e9d-4dbd-99a0-095607885f98"
             },
             "english": {
               "S": "Buy"
@@ -347,7 +347,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "9d11a56c-a404-443c-a823-8e1f3606debc"
+              "S": "69d9bc5b-a18d-4003-a797-0a92712e49a0"
             },
             "english": {
               "S": "Call"
@@ -365,7 +365,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "b43797f1-ba5d-480e-929a-986b691d730b"
+              "S": "72ee9739-d101-44a6-8efe-d5caa939c1f1"
             },
             "english": {
               "S": "Can"
@@ -383,7 +383,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "44e36a4a-c602-4e91-97fd-5ae6ae61df61"
+              "S": "92d6fa13-ec23-48d0-8c43-f06cbcdec158"
             },
             "english": {
               "S": "Cause"
@@ -401,7 +401,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "d87ca2e8-a9bc-4818-ba12-d3080833cde8"
+              "S": "de1552c6-a2ba-478f-b654-84b1e528d34d"
             },
             "english": {
               "S": "Change"
@@ -419,7 +419,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "b70c4c28-a5eb-42c8-bcd4-bb718ca80041"
+              "S": "dee97b73-e74e-4662-9e44-da0a389b301d"
             },
             "english": {
               "S": "Charge"
@@ -437,7 +437,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "456c86c3-381e-4aac-89d0-82218fd0bede"
+              "S": "0919bb2e-a87c-4717-b91d-7625f5fa7a13"
             },
             "english": {
               "S": "Check"
@@ -455,7 +455,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "3d82a8d0-63c6-4891-984a-e11562cb3661"
+              "S": "a3e88954-a088-4fac-b767-0c826365e803"
             },
             "english": {
               "S": "Clean"
@@ -473,7 +473,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "ba137853-5230-4355-9360-3421f7c63bdc"
+              "S": "3791a1ab-c08b-4622-b324-5d3de701284f"
             },
             "english": {
               "S": "Come"
@@ -491,7 +491,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "a15bb83d-33c5-4616-973a-e831d27a4666"
+              "S": "7e189bca-0cfd-48ed-959c-b53ac1add7e9"
             },
             "english": {
               "S": "Consider"
@@ -509,7 +509,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "7c7c3cda-c074-4423-87ea-07bbb0a3c17a"
+              "S": "e9196d09-3b9d-4930-856a-5cc9b04b8d99"
             },
             "english": {
               "S": "Continue"
@@ -527,7 +527,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "b7537b33-0516-4d97-a8ef-bb2921176bad"
+              "S": "5cd17a19-11f5-4bc9-9a06-f4d753652bd8"
             },
             "english": {
               "S": "Cook"
@@ -545,7 +545,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "7101862c-7a2c-4e83-a92b-502af462e046"
+              "S": "d11d8749-2d99-4539-90da-b89c61518794"
             },
             "english": {
               "S": "Cry"
@@ -563,7 +563,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "1081f14e-95d1-4ec0-9dd9-511ce2f67fcc"
+              "S": "fa384eec-562f-4f94-85b6-0c8815444f40"
             },
             "english": {
               "S": "Cut"
@@ -581,7 +581,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "ea463ce2-21f9-47c9-96c4-f514d0c41aba"
+              "S": "eb545b85-69c6-4d74-9b10-91e3d6a98bca"
             },
             "english": {
               "S": "Decide"
@@ -599,7 +599,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "1b8c27ad-6bc3-4857-9f78-f0b3eba1bbac"
+              "S": "7352bc07-5c63-483d-a5ee-6b18137f950e"
             },
             "english": {
               "S": "Delete"
@@ -617,7 +617,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "00c4be6f-2576-4663-afe5-5ec1b4512a52"
+              "S": "a4c5b7ff-de50-485d-8ede-93049f75082a"
             },
             "english": {
               "S": "Disappear"
@@ -635,7 +635,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "a9e57898-5e3b-4d03-9647-dba1ec62c897"
+              "S": "a362cbad-3555-4ff0-9adb-43c5e8b26423"
             },
             "english": {
               "S": "Discover"
@@ -653,7 +653,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "23b8cf6b-04a7-42a4-a9f0-2de47e9c5633"
+              "S": "4f1bc2c1-58ee-4b26-a5d7-9f1622e0ea20"
             },
             "english": {
               "S": "Dislike"
@@ -671,7 +671,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "835c70a5-65a2-4159-868e-e8ec4ee320af"
+              "S": "33cf332d-75c5-45d3-92fa-649ca41d1ac6"
             },
             "english": {
               "S": "Do"
@@ -689,7 +689,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "98516e42-98f7-46e4-b4b4-1af4d7731af8"
+              "S": "5813088f-dbfd-4830-9b5a-e326c936149f"
             },
             "english": {
               "S": "Download"
@@ -707,7 +707,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "66a9a73d-2e7d-43e3-a92e-d11426de7bfb"
+              "S": "81d1c589-15ef-436d-8522-fedb0725eb4d"
             },
             "english": {
               "S": "Dream"
@@ -725,7 +725,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "61052e38-501d-4ba6-bc74-c2d7b421befa"
+              "S": "c9603906-46ed-433c-bbc8-4bb75c7a322b"
             },
             "english": {
               "S": "Drink"
@@ -743,7 +743,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "eba9ec5c-a46b-44f2-bfb8-a30b7aa41c11"
+              "S": "f7b60a04-3691-49c7-a031-9744a2f4227f"
             },
             "english": {
               "S": "Drive"
@@ -761,7 +761,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "f365d90e-42b8-4ae4-8f77-9a7eaa559ce2"
+              "S": "de83646a-3aa2-4fcf-b1e3-2a1f4963f0cc"
             },
             "english": {
               "S": "Eat"
@@ -779,7 +779,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "0de9464a-41fb-495f-aae3-c8517f21825f"
+              "S": "f1418062-bb3a-4d3f-85c0-f83fb3934cca"
             },
             "english": {
               "S": "Explain"
@@ -797,7 +797,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "809400f2-e7c2-4267-8f2c-fb9fc025229b"
+              "S": "40375ed2-3ac4-4bb9-8b55-da20f5104d2e"
             },
             "english": {
               "S": "Express"
@@ -815,7 +815,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "764dff9d-0331-4fcd-9e0e-b15ee9b8581e"
+              "S": "88554eaa-1494-4dd0-b1c7-d63797d04c97"
             },
             "english": {
               "S": "Feel"
@@ -833,7 +833,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "798d5f7a-beb2-46bc-9e29-8b53f00875ea"
+              "S": "f6c79047-28ee-475f-b778-9f9437c58acb"
             },
             "english": {
               "S": "Find"
@@ -851,7 +851,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "2fcbfc58-379b-4f1d-9062-a2897e209017"
+              "S": "f4b3c4ec-4b20-4b8f-9c26-72c3f612a286"
             },
             "english": {
               "S": "Flee"
@@ -869,7 +869,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "1569aa33-080e-4713-b22c-54511867bf0c"
+              "S": "90b605a5-bee2-41f8-b7ee-749dc97a8104"
             },
             "english": {
               "S": "Fly"
@@ -887,7 +887,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "456b6f92-a354-4797-9897-416c5754432c"
+              "S": "60da66d9-ff1b-4dc0-a16d-b6a984512d01"
             },
             "english": {
               "S": "Get"
@@ -905,7 +905,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "bafbecf0-1607-4012-befa-1ffe6395c91b"
+              "S": "4600753e-b7df-40b8-8581-75b1117c5950"
             },
             "english": {
               "S": "Give"
@@ -923,7 +923,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "74b9c7ea-a951-4c10-9eae-39a49ded419a"
+              "S": "3451f41e-86ae-4e75-823c-0b4541ec5e29"
             },
             "english": {
               "S": "Go"
@@ -941,7 +941,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "7caacdb1-c528-4eab-be78-a34bb0949e32"
+              "S": "7b87c6f9-0640-43cf-aea4-680bbb84252e"
             },
             "english": {
               "S": "Greet"
@@ -959,7 +959,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "27afde54-f5b9-4406-9294-cdd73f61e05d"
+              "S": "b1da6c9d-2b25-4505-986a-82416967da15"
             },
             "english": {
               "S": "Guarantee"
@@ -977,7 +977,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "1d2a454a-23a8-4a6f-bd8b-dbfb8dd80f16"
+              "S": "02a1f789-194e-4bc9-ba1b-94f09338f677"
             },
             "english": {
               "S": "Guess"
@@ -995,7 +995,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "dbe77300-cc01-430d-abb6-997acdbf6b4f"
+              "S": "7fcb358b-c7a1-42d7-a9f2-b27644761de3"
             },
             "english": {
               "S": "Hate"
@@ -1013,7 +1013,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "312adb84-cdf2-42d1-a9f3-9ac19b3a78ac"
+              "S": "278d3e86-9b4a-4880-9d9d-268775c62664"
             },
             "english": {
               "S": "Have"
@@ -1031,7 +1031,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "eb6e9d34-ef73-4e04-8010-e37488551b1d"
+              "S": "47bfd7d5-09a2-4bcb-bb54-23492de9973e"
             },
             "english": {
               "S": "Hear"
@@ -1049,7 +1049,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "8e08ac11-7b36-45bc-97da-32243b718d8e"
+              "S": "2157442a-e127-465f-95ee-5db2f68cdc6b"
             },
             "english": {
               "S": "Help"
@@ -1067,7 +1067,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "969e81c6-9667-49f0-9717-ef8fac9a0638"
+              "S": "1050751b-529c-4930-9589-e0d13b2e3329"
             },
             "english": {
               "S": "Hope"
@@ -1085,7 +1085,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "0168648d-b6df-4c20-bc8e-dec6f6642a78"
+              "S": "e994487a-3546-49a0-8382-bd4e0cf2cd8e"
             },
             "english": {
               "S": "Hug"
@@ -1103,7 +1103,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "6989554e-c24d-4c67-9129-6122425e4821"
+              "S": "d191fcda-78d3-4c44-b7b0-e214c33a84f3"
             },
             "english": {
               "S": "Inform"
@@ -1121,7 +1121,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "2611417d-647d-4b93-b082-0c84ef55d28d"
+              "S": "40cad4e8-fdf7-430b-bd73-462aab0fbbc8"
             },
             "english": {
               "S": "Invite"
@@ -1139,7 +1139,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "bd037d8e-fb89-47dd-9cd5-5b6c744bb5c5"
+              "S": "21b8233f-9c73-4795-8e0d-ab7a19b05217"
             },
             "english": {
               "S": "Keep"
@@ -1157,7 +1157,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "bc80d9dc-5474-4b0c-a154-c49f8555f65a"
+              "S": "dd6ce6e8-a909-47c5-81f7-699057dc719d"
             },
             "english": {
               "S": "Kiss"
@@ -1175,7 +1175,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "13f0abdd-0603-4c16-9307-aa808116e6bc"
+              "S": "0dfa0b2a-84ed-4eb0-a8c9-b05ce7bc834e"
             },
             "english": {
               "S": "Know"
@@ -1193,7 +1193,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "911c476a-b759-4870-9762-b32c3480331d"
+              "S": "5a643e6e-8b06-44a9-8310-3b2607a5f9c5"
             },
             "english": {
               "S": "Learn"
@@ -1211,7 +1211,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "73a4f452-b016-4b85-be4b-01850317ca14"
+              "S": "307026ca-1d96-40d6-9b9b-bf2bc603508b"
             },
             "english": {
               "S": "Leave"
@@ -1229,7 +1229,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "e0e0f76f-c4cf-4b93-acb1-09e3e26aa817"
+              "S": "4a687a18-1f51-4965-83c3-7efe51e7655e"
             },
             "english": {
               "S": "Let"
@@ -1247,7 +1247,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "0997c2ec-2316-4e9e-9b27-ebd9dfdc6bc6"
+              "S": "b2bcdb34-79d2-42a4-a541-ac5f0bf9afa3"
             },
             "english": {
               "S": "Like"
@@ -1265,7 +1265,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "c4ff8b49-656c-42d5-a25c-d40f0a7e9f08"
+              "S": "a476f828-218d-4973-9a2d-e85d3845277d"
             },
             "english": {
               "S": "Live"
@@ -1283,7 +1283,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "96b59db7-c989-4981-bc33-2f0d22d0643b"
+              "S": "fa4346a1-13f1-4b32-a477-df76c64fea06"
             },
             "english": {
               "S": "Listen"
@@ -1301,7 +1301,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "b4ec2735-a4c7-4b0a-996d-a5fb9d2eba0f"
+              "S": "818d9672-4439-4225-9a08-3c25d62086b8"
             },
             "english": {
               "S": "Look"
@@ -1319,7 +1319,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "457cde47-40ff-442a-b21b-bf4696f8efb8"
+              "S": "20fc74db-b4aa-46f5-b996-138317207547"
             },
             "english": {
               "S": "Lose"
@@ -1337,7 +1337,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "9a8ac940-96b7-4b83-ab65-75e05ce07832"
+              "S": "9faca0fc-10f9-4ed9-8ef6-ec121068fcbe"
             },
             "english": {
               "S": "Love"
@@ -1355,7 +1355,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "0091d792-fa7d-4c0f-a07d-9160fd55b5b8"
+              "S": "76e98cf5-16ef-446e-a316-16283f09cad4"
             },
             "english": {
               "S": "Make"
@@ -1373,7 +1373,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "1520b492-ac5e-42bb-a86f-58e7082ac289"
+              "S": "40a9c290-34df-439d-b58c-f17fd33730c7"
             },
             "english": {
               "S": "Miss"
@@ -1391,7 +1391,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "e55d866d-47b1-4fbe-8e8f-272c470fea49"
+              "S": "39d682a5-467a-484f-a66b-95fc47c0e745"
             },
             "english": {
               "S": "Misunderstand"
@@ -1409,7 +1409,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "dcda1d9e-aafd-452f-aeaa-5afd2cf9d822"
+              "S": "9c004d78-3434-423c-a119-d68738ca8247"
             },
             "english": {
               "S": "Need"
@@ -1427,7 +1427,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "1bbbbbf5-ef41-41ea-93a2-109f33169804"
+              "S": "a174e620-95ac-4044-8589-359e8e2e3d51"
             },
             "english": {
               "S": "Notice"
@@ -1445,7 +1445,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "ae8df1ce-8d56-42f9-92aa-a69a20633172"
+              "S": "802b4461-098a-44e2-ac8d-e1ed5590fb26"
             },
             "english": {
               "S": "Notify"
@@ -1463,7 +1463,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "f230cfd5-4605-4c4a-8743-3dc95e3cded5"
+              "S": "74f93b2b-f2f0-4c20-abb6-2bf9f64c6026"
             },
             "english": {
               "S": "Observe"
@@ -1481,7 +1481,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "ee3df0b9-ab62-4112-9ef4-2b22df8ab819"
+              "S": "da8298d5-f8da-4ff5-8264-89d756b07c3a"
             },
             "english": {
               "S": "Order"
@@ -1499,7 +1499,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "6516a41d-5fcf-4e83-9947-e832eed9b673"
+              "S": "5d01353c-71ad-4f0b-932c-e4093318be0e"
             },
             "english": {
               "S": "Participate"
@@ -1517,7 +1517,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "8dab96cb-960d-48c3-977b-5384035deb42"
+              "S": "10aef9b1-a0ff-4dd3-8208-31b9a29f8c8b"
             },
             "english": {
               "S": "Pay"
@@ -1535,7 +1535,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "9cabc909-0bcf-45ac-ad9a-e6df6e3fc589"
+              "S": "35af46c2-e67e-4d43-adf2-c45c5b709227"
             },
             "english": {
               "S": "Perform"
@@ -1553,7 +1553,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "94abd530-2d65-4542-a864-87918afce6d4"
+              "S": "53121c4f-8a02-4b13-9bd3-34ad1f6ca1ca"
             },
             "english": {
               "S": "Persist"
@@ -1571,7 +1571,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "9762538f-51f6-4a9a-9218-97ff0557773d"
+              "S": "a1c5d1aa-73c2-49ed-8109-55278fc32475"
             },
             "english": {
               "S": "Play"
@@ -1589,7 +1589,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "d033c771-3d63-40ef-879f-1e9e653d4e83"
+              "S": "ce54f398-3d0d-419c-9073-15c5532d7b95"
             },
             "english": {
               "S": "Possess"
@@ -1607,7 +1607,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "c37d40b8-664c-4e41-b6b8-52269e4b4bba"
+              "S": "cb19dcf1-382a-4ed9-b7c5-349a41fe684f"
             },
             "english": {
               "S": "Pour"
@@ -1625,7 +1625,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "6194e56d-2496-4201-90d4-3972a0e5064e"
+              "S": "280ab58e-78ab-496b-a103-d964c11b85eb"
             },
             "english": {
               "S": "Prepare"
@@ -1643,7 +1643,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "40d318e9-75f1-4c93-933c-00d2fc8530fd"
+              "S": "38c8f951-29c8-43f2-996a-2260bebabde0"
             },
             "english": {
               "S": "Prevent"
@@ -1661,7 +1661,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "1223be0c-0a3b-42e5-a2b4-22e20a3c9a10"
+              "S": "14fe88d3-ae90-4b12-ae1e-b0aa3e4eab9e"
             },
             "english": {
               "S": "Promise"
@@ -1679,7 +1679,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "01add56a-42e1-4b74-b6ed-efb10ddf8622"
+              "S": "4527949f-f921-40cd-ae5b-888d4bf6ec15"
             },
             "english": {
               "S": "Pronounce"
@@ -1697,7 +1697,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "5a8001e3-e09e-4195-a194-6dec7055011f"
+              "S": "8f332d36-0a5b-485d-addf-3aad314ed5b6"
             },
             "english": {
               "S": "Protect"
@@ -1715,7 +1715,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "a9f4f95b-dce8-4363-be6d-1e5976a4bb37"
+              "S": "eb63f70f-114a-4b9a-84d2-ec6b3d64697f"
             },
             "english": {
               "S": "Provide"
@@ -1733,7 +1733,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "f3ccddf8-312a-4209-80e6-1dab70cc551d"
+              "S": "12ecd85d-ca21-40ce-b678-1178c8886282"
             },
             "english": {
               "S": "Put"
@@ -1751,7 +1751,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "6fe4ac12-cecb-4642-8d6c-5f5718532bdd"
+              "S": "7d6a5384-d382-470f-8de8-933b64d43d33"
             },
             "english": {
               "S": "Punish"
@@ -1769,7 +1769,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "3a8688df-29c5-4fba-b0a8-0b0c43f4df0e"
+              "S": "0479c4ae-fec8-49ef-884c-0784f9d19c39"
             },
             "english": {
               "S": "Question"
@@ -1787,7 +1787,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "a853f9c8-3bd8-4941-89e8-511f5ff68f47"
+              "S": "8c49e723-cd19-4514-8664-af2f013481c5"
             },
             "english": {
               "S": "Reach"
@@ -1805,7 +1805,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "355634bf-c2a3-4247-aa3e-1e611cb5cb2a"
+              "S": "38eebecd-f623-4f63-bb98-b7d5eff60851"
             },
             "english": {
               "S": "Read"
@@ -1823,7 +1823,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "9971afc1-f8c2-4d0f-aee3-712697d9caa6"
+              "S": "d9cb3d90-246f-456a-bfd3-2e004dc54432"
             },
             "english": {
               "S": "Receive"
@@ -1841,7 +1841,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "7d560fdb-71de-46c7-abb9-a11cfd558761"
+              "S": "dedc7fd1-5eac-460e-926b-620ee0c4d5f2"
             },
             "english": {
               "S": "Record"
@@ -1859,7 +1859,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "c40caec4-4282-4878-9e32-8e10433e7157"
+              "S": "a01044bd-bd96-448e-8ae9-8c5c6276fcea"
             },
             "english": {
               "S": "Reflect"
@@ -1877,7 +1877,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "c3ba5a7c-8289-4b2e-8cbf-be9d36432be0"
+              "S": "4e65d8fb-ba49-4a69-aeee-e9fff9635aee"
             },
             "english": {
               "S": "Register"
@@ -1895,7 +1895,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "3076d7a1-bff9-4ac0-906f-d0f72053420d"
+              "S": "65b6a034-4844-4b6d-b7cc-ef9f8e9425de"
             },
             "english": {
               "S": "Reject"
@@ -1913,7 +1913,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "478c75e4-88fd-42fc-95b5-a032a313c440"
+              "S": "084ffe70-0433-49f0-8d8f-6e756e2f726b"
             },
             "english": {
               "S": "Repeat"
@@ -1931,7 +1931,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "539269fa-d659-41de-86ff-a22226f1ab8e"
+              "S": "d5aa75e6-677d-463b-8552-37d04b378fbc"
             },
             "english": {
               "S": "Replace"
@@ -1949,7 +1949,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "925a5a8e-6d65-42b7-9dee-e9b97fb01336"
+              "S": "1dc78bba-1964-447c-9ba5-f7555d12db7c"
             },
             "english": {
               "S": "Request"
@@ -1967,7 +1967,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "282b1253-57ca-4a02-b9d8-89305d503e5e"
+              "S": "97df1e82-2e10-4216-863e-f7f3fffaaedb"
             },
             "english": {
               "S": "Return"
@@ -1985,7 +1985,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "09a5e175-7661-49af-aafe-60ee355dfa5d"
+              "S": "77222ecb-ead0-402b-bf8f-bc9b9475c472"
             },
             "english": {
               "S": "Resign"
@@ -2003,7 +2003,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "6d611c31-e2a2-41a5-ad56-bc569d857067"
+              "S": "aed51035-26d8-4be7-bf65-0ebfee8c28f1"
             },
             "english": {
               "S": "Run"
@@ -2021,7 +2021,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "f3851315-a147-48f3-95a9-e57508f194ff"
+              "S": "f4333e3b-007e-4d5e-9c63-bd340522fb09"
             },
             "english": {
               "S": "Save"
@@ -2039,7 +2039,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "0661a4f9-3451-4335-8429-459eb9439e93"
+              "S": "e7b6c2b4-f564-4a35-a1a0-d2121e005725"
             },
             "english": {
               "S": "Say"
@@ -2057,7 +2057,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "4a2c4ac0-56e1-43f5-b729-ca6478cfc82f"
+              "S": "19369b08-2308-4d59-bba0-ecd79de7e0f7"
             },
             "english": {
               "S": "Scold"
@@ -2075,7 +2075,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "31cef7f5-8bb8-4728-9c06-e2f170ae8a40"
+              "S": "5cc5aed0-e232-42d8-858e-3d10325b8d52"
             },
             "english": {
               "S": "Search"
@@ -2093,7 +2093,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "46fade30-ac21-4320-9a07-2799fd16b6ab"
+              "S": "56597db8-e7df-4685-97a3-e438af45679a"
             },
             "english": {
               "S": "See"
@@ -2111,7 +2111,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "c29bdd1c-3a9e-4096-ba56-b10e15d163d1"
+              "S": "94fa831c-9e25-4f12-bb3a-dc8f26d975a7"
             },
             "english": {
               "S": "Seem"
@@ -2129,7 +2129,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "53478810-be10-4080-b8d9-2cb8ec3ca889"
+              "S": "22ab95be-ee57-461b-9fce-1c8767e9721a"
             },
             "english": {
               "S": "Sell"
@@ -2147,7 +2147,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "cfd416f7-1490-4c06-bfa5-2430faad8773"
+              "S": "150b1258-0802-42e0-99f2-67e2ee2ce0e2"
             },
             "english": {
               "S": "Send"
@@ -2165,7 +2165,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "aaee6246-bfe8-4c39-94ba-766437725479"
+              "S": "ecc1ca1b-6082-4ecb-a5b5-e62b42f769d2"
             },
             "english": {
               "S": "Shout"
@@ -2183,7 +2183,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "16f71c77-d8e3-4ad8-834d-6c150881cef4"
+              "S": "0cb28c68-aceb-4f60-b0fa-c30897de451b"
             },
             "english": {
               "S": "Sit"
@@ -2201,7 +2201,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "e22de105-9641-4407-9bdd-ba24269755f1"
+              "S": "35dc3f55-e9e3-4934-9937-bcd3bdc2dc44"
             },
             "english": {
               "S": "Sleep"
@@ -2219,7 +2219,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "bf002526-fdbf-4b30-a7d8-1278c46e6e6b"
+              "S": "2f474e41-b751-4c76-9916-f126ee5839f9"
             },
             "english": {
               "S": "Stand"
@@ -2237,7 +2237,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "78012e44-6b6d-4fbc-999b-c4c86c186f1d"
+              "S": "ab248032-a439-434c-8843-7bf4a119fc48"
             },
             "english": {
               "S": "Stay"
@@ -2255,7 +2255,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "4588d01f-8654-4278-b501-010e94acda50"
+              "S": "66f570f1-3895-43a2-be8b-074414c75a4d"
             },
             "english": {
               "S": "Stop"
@@ -2273,7 +2273,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "995d11da-3221-445b-994e-980cca548efc"
+              "S": "5fa72fa0-cd26-49b3-9b36-f4e23437cbf1"
             },
             "english": {
               "S": "Stroll"
@@ -2291,7 +2291,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "c24637d2-91c4-4204-874d-2940e7bc80ee"
+              "S": "dcb6b95d-fdbc-410e-92a4-93776950edb8"
             },
             "english": {
               "S": "Study"
@@ -2309,7 +2309,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "6e71319e-20ba-449f-8b08-0beec6db53af"
+              "S": "b045199e-28c1-4846-a9d9-dff309f7dc51"
             },
             "english": {
               "S": "Speak"
@@ -2327,7 +2327,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "8fe00992-5636-43ca-bebe-03b7f2b7d3d5"
+              "S": "519bc31d-e34d-4106-9677-296eea0eccb6"
             },
             "english": {
               "S": "Spell"
@@ -2345,7 +2345,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "16ea5233-51e4-46cf-a0dc-bed9276941b8"
+              "S": "c5b00c69-4734-41c0-a8c8-54cf387f33a1"
             },
             "english": {
               "S": "Surf"
@@ -2363,7 +2363,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "acd5d790-4b1e-4527-85cf-23776661d7d0"
+              "S": "69a31d15-57bc-44a9-a932-40687661bbc4"
             },
             "english": {
               "S": "Suspect"
@@ -2381,7 +2381,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "c9744ea8-7117-4841-809a-fab24b040820"
+              "S": "51b3ca7d-0cea-4095-ba62-abbbb314c906"
             },
             "english": {
               "S": "Swim"
@@ -2399,7 +2399,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "36d3fd73-4220-4efc-bc15-4c9aecb2d672"
+              "S": "d498a0cc-ada5-48e8-b7f1-cf3d0e2575f9"
             },
             "english": {
               "S": "Take"
@@ -2417,7 +2417,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "05bcafda-9bea-4b7b-960b-659ebdab45fd"
+              "S": "e318af0c-de0a-43b7-93cf-451a57990033"
             },
             "english": {
               "S": "Teach"
@@ -2435,7 +2435,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "6bddd77f-6e6f-4f90-81b3-a3451ff8427b"
+              "S": "236809da-179c-42b5-a243-7ff8c45da750"
             },
             "english": {
               "S": "Tell"
@@ -2453,7 +2453,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "7064f12c-6da7-4357-9bfe-a2b5a6725ec7"
+              "S": "9dd19c2c-05bf-461e-985e-eccc7c9432d9"
             },
             "english": {
               "S": "Think"
@@ -2471,7 +2471,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "39c1395c-e47b-48ac-9283-ab51a3812bc1"
+              "S": "73f3c030-f239-4b2d-bc47-f21bcb5abd61"
             },
             "english": {
               "S": "Travel"
@@ -2489,7 +2489,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "fc3625d0-a7af-421e-9911-ff201a347e1f"
+              "S": "3b838e8d-82be-48ae-84de-51ea302366ea"
             },
             "english": {
               "S": "Try"
@@ -2507,7 +2507,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "c00b4abe-d831-4498-bc84-eb684e38c698"
+              "S": "dbbcc43e-b56d-4f03-8243-acd93fbf5282"
             },
             "english": {
               "S": "Trust"
@@ -2525,7 +2525,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "c965c65d-69f3-4906-8812-974d8ce07196"
+              "S": "d57b0102-9e6a-4eee-a106-a3517e1d12aa"
             },
             "english": {
               "S": "Type"
@@ -2543,7 +2543,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "72f2be1c-3dac-4e55-886f-1bbac320ccf2"
+              "S": "199fc881-2437-478e-96b9-27a2296b3d1f"
             },
             "english": {
               "S": "Understand"
@@ -2561,7 +2561,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "91f26d36-aa21-4e0f-a706-eebdcb2ddb1c"
+              "S": "a40a3435-5c9c-4bfa-8f4e-c6ffd60ddcbf"
             },
             "english": {
               "S": "Upload"
@@ -2579,7 +2579,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "5cd051c2-3d97-45bb-a3fa-e62facc81815"
+              "S": "489658f7-b796-4023-92db-647487f9aa83"
             },
             "english": {
               "S": "Verify"
@@ -2597,7 +2597,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "1800a90c-9869-4b54-9751-d4ecf7762d64"
+              "S": "61cf682c-13f8-46cd-9134-28f26891f081"
             },
             "english": {
               "S": "Visit"
@@ -2615,7 +2615,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "407054d2-f6ee-44e0-98e9-01d7f143e3bc"
+              "S": "5e424fcc-b1fa-46e7-9a41-41debe876eb3"
             },
             "english": {
               "S": "Walk"
@@ -2633,7 +2633,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "bd0e2a74-487c-4e94-a9f5-ed8fb25f686f"
+              "S": "e01c592b-1850-416e-a7cd-0a719ef07bed"
             },
             "english": {
               "S": "Want"
@@ -2651,7 +2651,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "443e291e-1e7b-42e5-979c-994133a547c1"
+              "S": "09442bc5-dde2-4f86-9ee2-fafa6ba3ff82"
             },
             "english": {
               "S": "Warn"
@@ -2669,7 +2669,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "8f675182-f80e-4c37-a311-cbcd1d14a9cf"
+              "S": "0021120d-692a-400a-adef-f537855a23f9"
             },
             "english": {
               "S": "Wash"
@@ -2687,7 +2687,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "684de3f2-a8cb-446a-b53a-acf665146296"
+              "S": "c27f5977-79a8-4456-9bf8-23ef1ef9f58a"
             },
             "english": {
               "S": "Waste"
@@ -2705,7 +2705,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "55691523-5962-441c-92b3-f07c5dafa65f"
+              "S": "8eef533e-94f4-4ec8-81c1-c4728503c908"
             },
             "english": {
               "S": "Watch"
@@ -2723,7 +2723,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "5609dd64-2236-418e-ab52-9577e4354cbd"
+              "S": "96da4978-3e3d-4872-abf5-23e7756c918a"
             },
             "english": {
               "S": "Wear"
@@ -2741,7 +2741,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "7eef5d17-bc66-4336-9b92-2949611e4b76"
+              "S": "935c48fd-f99b-40af-b050-662912536904"
             },
             "english": {
               "S": "Win"
@@ -2759,7 +2759,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "48be6651-9b53-4e36-8513-f5ba7f88d85a"
+              "S": "5bb5fdf1-99ca-430b-949b-d3a9deeaf3a1"
             },
             "english": {
               "S": "Wish"
@@ -2777,7 +2777,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "21bf664f-9dd5-4a0d-b60e-048ab0c18e4f"
+              "S": "c04ab1a8-4158-4510-bd6f-d14ee4883d80"
             },
             "english": {
               "S": "Work"
@@ -2795,7 +2795,7 @@
         "PutRequest": {
           "Item": {
             "id": {
-              "S": "cbd182b1-e85b-473f-8433-1d7aeba6f395"
+              "S": "2a2b4bbb-19e6-49cc-9760-05f5b853aee3"
             },
             "english": {
               "S": "Write"

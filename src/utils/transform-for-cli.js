@@ -68,6 +68,4 @@ function transformData() {
   });
 }
 
-const returned = transformData();
-
-console.log(returned);
+transformData();
