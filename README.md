@@ -24,7 +24,6 @@ The input data is an array of these type of objects
     "chinese": "能, 能够",
     "pinyin": "Néng, Nénggòu"
   }
-  ...
 ]
 ```
 
@@ -34,9 +33,9 @@ Hmmm...
 
 ## Data - adding fields
 
-@ `data/original/all-verbs.json` contains the original data.  The items do not have a uuid but it might be useful to assign a uuid to each item.
+@ `data/original/all-verbs.json` contains the original data. The items do not have a uuid but it might be useful to assign a uuid to each item.
 
-@ `src/utils/add-id.js` contains a script that adds a uuid to each object.  Now the fields in the json data match the table on DynamoDB
+@ `src/utils/add-id.js` contains a script that adds a uuid to each object. Now the fields in the json data match the table on DynamoDB
 
 At the end of the file I call the function 3 times to generate 3 files with arrays containing 1, 10 and all-items from the original data. These files are generated @ `src/data/with-id` by calling the function `node ./src/utils/add-id.js`
 
@@ -44,17 +43,17 @@ Its convenient to have different length arrays of starting data to test various 
 
 ## Using AWS CLI
 
-You can upload data from the command line using the AWS CLI.  If you Google you'll quickly find this command:
+You can upload data from the command line using the AWS CLI. If you Google you'll quickly find this command:
 
 ```
 aws dynamodb put-item --table-name YOUR-TABLE-NAME --item file://YOUR-DATA.json
 ```
 
-Obviously you need the AWS CLI installed and configured. Importantly, it may not be configured for the same region your DynamoDB Table is using. 
+Obviously you need the AWS CLI installed and configured. Importantly, it may not be configured for the same region your DynamoDB Table is using.
 
 AWS CLI is going to use your default profile, unless you tell it otherwise, that's where the default region is set.
 
-To test this you might try with a single item of data.  The `dynamodb put-item` command processes one item into the database:
+To test this you might try with a single item of data. The `dynamodb put-item` command processes one item into the database:
 
 ```json
 {
@@ -114,9 +113,7 @@ So, looping means writing a function and that means not using the CLI...
 
 To call an AWS API in code (and not on the command line) I needed AWS SDK installed. Luckily, since I am running these scripts on my local machine the SKD picks up the default configuration profile generated when I installed the AWS CLI.
 
-> However if I were running these srcipts on an EC2 instance I would need to grant the instance a role to access DynamoDB (don't use credentials on instances - use roles!) 
-
-
+> However if I were running these srcipts on an EC2 instance I would need to grant the instance a role to access DynamoDB (don't use credentials on instances - use roles!)
 
 ## Looping over the data
 
@@ -136,17 +133,18 @@ The interesting thing about this function is that uses document client.
 
 > The DynamoDB document client simplifies working with items by abstracting the notion of attribute values. This abstraction annotates native JavaScript types supplied as input parameters, as well as converts annotated response data to native JavaScript types.
 
-That's as clear as mud!  Working through the errors led me to understand (perhaps mistakenly,) that document client takes care of typing your items as you pass them to DynamoDB, when working in javascript.
+That's as clear as mud! Working through the errors led me to understand (perhaps mistakenly,) that document client takes care of typing your items as you pass them to DynamoDB, when working in javascript.
 
 So this function runs against the files @ `src/data/with-id` in other words, it takes simple arrays of json data as input:
 
 ```json
 [
   {
-    "english":"Able",
-    "chinese":"能, 能够",
-    "pinyin":"Néng, Nénggòu",
-    "id":"e9052984-f41e-437a-85f5-94908d51a774"}...
+    "english": "Able",
+    "chinese": "能, 能够",
+    "pinyin": "Néng, Nénggòu",
+    "id": "e9052984-f41e-437a-85f5-94908d51a774"
+  }
 ]
 ```
 
